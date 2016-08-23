@@ -9,3 +9,6 @@ C:\Users\user 1\Documents\VC year 2\Simester 2\Prog6212\Will\Will\obj\Debug\Will
 C:\Users\user 1\Documents\VC year 2\Simester 2\Prog6212\Will\Will\obj\Debug\Will.pdb
 C:\Users\user 1\Documents\VC year 2\Simester 2\Prog6212\Will\Will\obj\Debug\RdlCompile.cache
 C:\Users\user 1\Documents\VC year 2\Simester 2\Prog6212\Will\Will\obj\Debug\RdlCompile.compiled
+C:\Users\user 1\Documents\GitHub\will\Will\bin\Debug\Will.exe.config
+C:\Users\user 1\Documents\GitHub\will\Will\obj\Debug\Will.exe
+C:\Users\user 1\Documents\GitHub\will\Will\obj\Debug\Will.pdb
