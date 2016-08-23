@@ -1,0 +1,11 @@
+C:\Users\user 1\Documents\VC year 2\Simester 2\Prog6212\Will\Will\bin\Debug\Will.exe.config
+C:\Users\user 1\Documents\VC year 2\Simester 2\Prog6212\Will\Will\bin\Debug\Will.exe
+C:\Users\user 1\Documents\VC year 2\Simester 2\Prog6212\Will\Will\bin\Debug\Will.pdb
+C:\Users\user 1\Documents\VC year 2\Simester 2\Prog6212\Will\Will\obj\Debug\Will.csprojResolveAssemblyReference.cache
+C:\Users\user 1\Documents\VC year 2\Simester 2\Prog6212\Will\Will\obj\Debug\Will.frmCustomers.resources
+C:\Users\user 1\Documents\VC year 2\Simester 2\Prog6212\Will\Will\obj\Debug\Will.Properties.Resources.resources
+C:\Users\user 1\Documents\VC year 2\Simester 2\Prog6212\Will\Will\obj\Debug\Will.csproj.GenerateResource.Cache
+C:\Users\user 1\Documents\VC year 2\Simester 2\Prog6212\Will\Will\obj\Debug\Will.exe
+C:\Users\user 1\Documents\VC year 2\Simester 2\Prog6212\Will\Will\obj\Debug\Will.pdb
+C:\Users\user 1\Documents\VC year 2\Simester 2\Prog6212\Will\Will\obj\Debug\RdlCompile.cache
+C:\Users\user 1\Documents\VC year 2\Simester 2\Prog6212\Will\Will\obj\Debug\RdlCompile.compiled
